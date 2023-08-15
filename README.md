@@ -55,6 +55,8 @@ HR角色包含以下功能：
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
+论文目录截图
+![contents](./picture/picture0.png)
 ### 1、管理员页面
 ![contents](./picture/picture1.png)
 ![contents](./picture/picture01.png)
